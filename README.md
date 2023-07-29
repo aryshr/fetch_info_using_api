@@ -1,10 +1,10 @@
 # fetch_info_using_api
 
-A new Flutter project.
+Task 2 of AppDev Cohort 
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+[device-2023-07-30-011025.webm](https://github.com/aryshr/fetch_info_using_api/assets/118653568/ec7420e6-af76-46ab-a401-1c2625349114)
 
 A few resources to get you started if this is your first Flutter project:
 
